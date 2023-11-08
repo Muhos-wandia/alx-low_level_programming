@@ -1,5 +1,5 @@
-#ifndef function_pointers_h
-#define function_pointers_h
+#ifndef _FUNCTION_POINTERS_
+#define _FUNCTION_POINTERS_
 
 #include <stdlib.h>
 
